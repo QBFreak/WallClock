@@ -22,7 +22,7 @@ You will need Python 3 (which should be included in the current Raspbian distro)
 as well as PyQt5 for Python 3.
 
 ```
-sudo apt install python3-pyqt5
+$ sudo apt install python3-pyqt5
 ```
 
 ## Testing
