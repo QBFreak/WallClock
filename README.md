@@ -33,4 +33,4 @@ To launch Wall Clock from a remote shell (SSH), you must specify the display:
 $ DISPLAY=0 ./clock.py
 ```
 
-![WallClock action shot](https://raw.githubusercontent.com/QBFreak/WallClock/raw/master/WallClock.jpg)
+![WallClock action shot](https://raw.githubusercontent.com/QBFreak/WallClock/master/WallClock.jpg)
