@@ -11,6 +11,11 @@ to a wall to serve as a lighted clock. Desired functionality includes:
 The project is in the early stages and presently is only capable of displaying
 the time full-screen, in the largest font that will fit.
 
+## Current functionality
+
+ - Display clock full screen, largest font possible
+ - Click/tap anywhere to exit
+
 ## Prerequisites
 
 You will need Python 3 (which should be included in the current Raspbian distro)
@@ -27,3 +32,5 @@ To launch Wall Clock from a remote shell (SSH), you must specify the display:
 ```
 $ DISPLAY=0 ./clock.py
 ```
+
+![WallClock action shot](https://raw.githubusercontent.com/QBFreak/WallClock/raw/master/WallClock.jpg)
